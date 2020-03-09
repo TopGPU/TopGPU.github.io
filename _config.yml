@@ -66,8 +66,8 @@ disqus: # fromendworld
 gitalk:
   clientID: cf9d7691efc6b20233ba
   clientSecret: c5ad537f74162803d6b927d92f02e57f262f52fe
-  repo: cndota.github.io
-  owner: cndota
+  repo: topgpu.github.io
+  owner: topgpu
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-152888548-1
