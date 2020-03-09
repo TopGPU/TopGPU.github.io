@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "dong's blog"
+name: "深极智算云算力平台官方博客"
 # Short bio or description (displayed in the header)
-description: "Independent researcher, interested in Multiagent Systems, Smart Grid and Deep Reinforcement Learning"
+description: "基于区块链技术的分布式云算力平台，致力于为用户提供优质廉价的GPU深度模型训练服务"
 
 #
 # Flags below are optional
