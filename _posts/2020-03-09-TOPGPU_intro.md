@@ -43,11 +43,11 @@ toc: true
 用户群24小时技术指导，解决使用中的一切难题。
 
 我的微信：IOS_shike，备注GPU即可，或者扫描二维码
-![intro1](https://github.com/topgpu/topgpu.github.io/raw/master/images/yang.png)
+![intro3](https://github.com/topgpu/topgpu.github.io/raw/master/images/yang.jpg)
 
 用户群的微信二维码在下面
 
-![intro3](https://github.com/topgpu/topgpu.github.io/raw/master/images/2020-03-09-TOPGPU_intro/wechat.png)
+![intro4](https://github.com/topgpu/topgpu.github.io/raw/master/images/2020-03-09-TOPGPU_intro/wechat.png)
 
 ### 隐私性高，数据安全有保障：
 采用容器技术，使用结束后数据即销毁，无需担心数据泄露。在私人云盘保存数据，安全放心省心。
