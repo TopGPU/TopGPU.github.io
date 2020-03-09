@@ -1,4 +1,4 @@
-dong's personal blog repo
+TopGPU's official blog repo
 
 ### Copyright
 
