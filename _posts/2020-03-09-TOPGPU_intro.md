@@ -19,11 +19,10 @@ toc: true
 
 <!-- more -->
 
-使用过程也十分简单和清晰。1080Ti每卡时不到1块钱，2080Ti每卡时不到2块钱。让人人都能跑深度模型！
-## 教程
+## 平台阐述
 深极智算(topgpu.top)--低成本的、隐私的、弹性的、安全的去中心化人工智能计算平台。
 
-一键访问网址topgpu.top
+一键访问网址[**topgpu.top**](topgpu.top)
 
 ![intro1](https://github.com/topgpu/topgpu.github.io/raw/master/images/logo.png)
 
@@ -43,7 +42,8 @@ toc: true
 要是能一直推荐给新同学就能一直免费使用下去美滋滋。欢迎加入用户群交流（不能扫描的童鞋可以私聊我拉下哈），
 用户群24小时技术指导，解决使用中的一切难题。
 
-我的微信：IOS_shike，备注GPU即可
+我的微信：IOS_shike，备注GPU即可，或者扫描二维码
+![intro1](https://github.com/topgpu/topgpu.github.io/raw/master/images/yang.png)
 
 用户群的微信二维码在下面
 
