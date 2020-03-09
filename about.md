@@ -16,11 +16,11 @@ GPU云算力服务。
 
 ### 联系方式
 
-电子邮箱: treenewbeetogether@163.com
-
 微信二维码：
 ![wechatcode1](https://github.com/topgpu/topgpu.github.io/raw/master/images/xue.jpg)
 ![wechatcode2](https://github.com/topgpu/topgpu.github.io/raw/master/images/yang.jpg)
+
+电子邮箱: treenewbeetogether@163.com
 
 ### 版权
 
