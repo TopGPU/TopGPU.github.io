@@ -59,4 +59,6 @@ toc: true
 
 欢迎大家使用深极智算云算力平台。
 
+[**使用教程传送门**](https://topgpu.github.io/TOPGPU/)
+
 
