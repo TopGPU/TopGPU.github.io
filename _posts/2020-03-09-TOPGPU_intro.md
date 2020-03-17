@@ -42,10 +42,16 @@ toc: true
 要是能一直推荐给新同学就能一直免费使用下去美滋滋。欢迎加入用户群交流（不能扫描的童鞋可以私聊我拉下哈），
 用户群24小时技术指导，解决使用中的一切难题。
 
-我的微信：IOS_shike，备注GPU即可，或者扫描二维码
-![intro3](https://github.com/topgpu/topgpu.github.io/raw/master/images/yang.jpg)
+现在加入的话邀请人和受邀人都能获得约10个小时的GPU免费使用时长，欢迎大家加深极智算小伙伴微信入群探讨深度学习和算力相关
 
-用户群的微信二维码在下面
+深极智算小伙伴微信号：IOS_shike或者msd_forever_ieteda，备注GPU即可
+或者扫描深极智算小伙伴二维码
+<div class="half" style="text-align: center;">
+    <img src="https://github.com/topgpu/topgpu.github.io/raw/master/images/peng.jpg" width="200"/>
+    <img src="https://github.com/topgpu/topgpu.github.io/raw/master/images/yang.jpg" width="200"/>
+</div>
+
+用户群的微信二维码在下面，失效的话加小伙伴二维码入群即可哦
 
 ![intro4](https://github.com/topgpu/topgpu.github.io/raw/master/images/2020-03-09-TOPGPU_intro/wechat.png)
 
